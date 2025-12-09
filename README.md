@@ -27,5 +27,5 @@ words flowing again.
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/writers-spark.git
+git clone https://github.com/<hanstheevilgenius>/writers-spark.git
 cd writers-spark
