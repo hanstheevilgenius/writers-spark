@@ -1,7 +1,6 @@
 from typing import Dict, Any, List
 
 # Internal library of block types, modes, and exercises.
-# You can expand this as much as you like.
 _PROMPT_LIBRARY: Dict[str, Dict[str, Any]] = {
     "perfectionism": {
         "label": "Perfectionism / fear of not being good enough",
